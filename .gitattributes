@@ -1,1 +1,2 @@
-.obsidian/** linguist-vendored
+*.aspx linguist-detectable=false
+*.csharp linguist-detectable=true
